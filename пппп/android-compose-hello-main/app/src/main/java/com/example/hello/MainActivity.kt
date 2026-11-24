@@ -43,7 +43,7 @@ fun Greeting() {
         )
 
         Text(
-            text = "Лаврентьев Аврам Петрович",
+            text = "Кара Артем Валерьевич",
             modifier = Modifier.padding(top = 16.dp),
             fontSize = 20.sp,
             color = Color(0xFF1976D2)
